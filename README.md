@@ -139,4 +139,33 @@ OpenSource:
 - [Participant of allure team](https://github.com/allure-framework)
 - [Developer of nose-allure-plugin](https://pypi.python.org/pypi/nose-allure-plugin)
 - Contribution to mitmproxy, uisoup, selenium, jenkins-allure-plugin, jenkins-naginator-plugin, pytest-allure-adaptor, pytest-ordering
+
+#### [BARS Group](https://bars.group/)
+
+05.2013 - 02.2014 - **Web Developer**
+
+Responsibilities:
+- Participation in the development of the "BARS.E-School" with Python, JavaScript, HTML, using frameworks Django, M3, ExtJS.
+
+#### [Flatstack](https://www.flatstack.ru/)
+
+04.2012 - 05.2013 - **Web Developer**
+
+Responsibilities:
+- Web Application Development with Ruby-on-Rails, CoffeeScript.
+- Backend development for iOS-clients.
+- Code review of junior developers.
+
+#### [FIX LLC](https://www.fix.ru/)
+
+04.2011 - 02.2013 - **QA Team Lead**
+
+Responsibilities:
+- Quality Assurance of https://open.kzn.ru
+
+12.2010 - 04.2011 - **QA Engineer**
+
+Responsibilities:
+- Software testing
+- Bug reporting
 </details>
