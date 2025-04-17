@@ -90,4 +90,53 @@ Presentaions:
 - Speaker on TallinnJS Meetup;
 - Speaker on Derivco DevNight "Automation";
 - Speaker on Tallinn DevClub;
+
+#### [Mirantis](https://www.mirantis.com/)
+
+11.2016 - 04.2017 - **Senior Automation Engineer**
+
+Responsibilities:
+- [Architectural solutions of stepler project](https://github.com/Mirantis/stepler)
+- Coordinating of stepler developers team
+- Code review of stepler project.
+
+Achievements:
+- Cofounder, architect and core developer of stepler project:
+  - http://stepler.readthedocs.io/
+  - https://github.com/mirantis/stepler
+
+OpenSource:
+- [POM - microframework for Web UI testing](https://github.com/sergeychipiga/pom)
+- [Dilium - distributed selenium with ansible](https://github.com/sergeychipiga/dilium)
+
+Publications:
+- [Python memory management to avoid leaks](http://automated-testing.info/t/cziklicheskie-ssylki-bez-utechek-pamyati-i-destrukcziya-obektov-v-pythone)
+- [Web UI testing with POM](http://automated-testing.info/t/pom-kak-instrument-bystrogo-i-udobnogo-napisaniya-ui-testov-na-python)
+- [STEPS-architecture for OpenStack testing](http://automated-testing.info/t/steps-arhitektura-na-primere-horizon-testov-openstacka)
+
+03.2016 - 10.2016 - **Automation Engineer**
+
+Responsibilities:
+- Horizon QA
+- Openstack testing
+- Automation testing with selenium
+- Code review
+- Test coverage
+- Test design
+
+#### [Yandex](https://yandex.com/)
+
+02.2014 - 02.2016 - **Automation Engineer**
+
+Responsibilities:
+- UI automated testing at ZOO of operation systems.
+- Setup testbed at different operation systems.
+- Cloud automated testing.
+- Curation of junior automation engineers.
+- Architect and main contributor to test framework.
+
+OpenSource:
+- [Participant of allure team](https://github.com/allure-framework)
+- [Developer of nose-allure-plugin](https://pypi.python.org/pypi/nose-allure-plugin)
+- Contribution to mitmproxy, uisoup, selenium, jenkins-allure-plugin, jenkins-naginator-plugin, pytest-allure-adaptor, pytest-ordering
 </details>
