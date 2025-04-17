@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Sergei
 
-<!--
-**schipiga/schipiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Senior Developer of AI-based systems. Have PhD in Engineering.
 
-Here are some ideas to get you started:
+### Work Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [Pipedrive](https://www.pipedrive.com/)
+
+07.2024 - Present - Senior Developer of AI-based systems
+
+Researching and experimenting:
+- Transformers architecture internals
+- LLM-serving tools: llama.cpp, vllm, sglang
+- AI-agents frameworks: langchain, llamaindex, autogen, BeeAI, MCP
+
+Opensource contribution:
+- [Implementation of G-Eval evaluation in promptfoo](https://github.com/promptfoo/promptfoo/pull/2436)
+- [Fix of critical issue with server crash in promptfoo](https://github.com/promptfoo/promptfoo/pull/3593)
