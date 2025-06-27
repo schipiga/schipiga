@@ -16,6 +16,7 @@ Researching and experimenting:
 Opensource contribution:
 - [Implementation of G-Eval evaluation in promptfoo](https://github.com/promptfoo/promptfoo/pull/2436)
 - [Fix of critical issue with server crash in promptfoo](https://github.com/promptfoo/promptfoo/pull/3593)
+- [Minor but important fix in beeai-framework](https://github.com/i-am-bee/beeai-framework/pull/856)
 - [MCP-server for Pipedrive public API v1+v2](https://github.com/schipiga/mcp-server)
 - [MCP-compatible LLM G-Eval guardrails checker](https://github.com/schipiga/guardrails)
 
