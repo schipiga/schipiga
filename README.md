@@ -8,6 +8,9 @@ I'm Senior Developer of AI-based systems. Have PhD in Engineering.
 
 07.2024 - Present - **Senior Developer of AI-based systems**
 
+Responsibility:
+- Design and building of AI and agentic systems.
+
 Researching and experimenting:
 - Transformers architecture internals
 - LLM-serving tools: llama.cpp, vllm, sglang
@@ -19,6 +22,12 @@ Opensource contribution:
 - [Minor but important fix in beeai-framework](https://github.com/i-am-bee/beeai-framework/pull/856)
 - [MCP-server for Pipedrive public API v1+v2](https://github.com/schipiga/mcp-server)
 - [MCP-compatible LLM G-Eval guardrails checker](https://github.com/schipiga/guardrails)
+
+Publications:
+- [11 Practical Notes about Prompt Engineering](https://medium.com/@chipiga86/11-practical-notes-about-prompt-engineering-ba2341b06d9e)
+- [Rethinking AI Agents (practical guide)](https://medium.com/@chipiga86/rethinking-ai-agents-practical-guide-4944b33d1fe2)
+- [7 Practical Guidelines for Designing AI-Friendly APIs](https://medium.com/@chipiga86/7-practical-guidelines-for-designing-ai-friendly-apis-c5527f6869e6)
+- [Retaining AI Agent Tools Experience with LLM Embeddings](https://medium.com/@chipiga86/retaining-ai-agent-tools-experience-with-llm-embeddings-fd8b2b004459)
 
 <details>
 
