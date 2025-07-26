@@ -28,6 +28,7 @@ Publications:
 - [Rethinking AI Agents (practical guide)](https://medium.com/@chipiga86/rethinking-ai-agents-practical-guide-4944b33d1fe2)
 - [7 Practical Guidelines for Designing AI-Friendly APIs](https://medium.com/@chipiga86/7-practical-guidelines-for-designing-ai-friendly-apis-c5527f6869e6)
 - [Retaining AI Agent Tools Experience with LLM Embeddings](https://medium.com/@chipiga86/retaining-ai-agent-tools-experience-with-llm-embeddings-fd8b2b004459)
+- [Thoughts on External Memory for LLMs](https://medium.com/@chipiga86/thoughts-on-external-memory-for-llms-e2ee21be3292)
 
 <details>
 
