@@ -10,6 +10,7 @@ I'm Senior Developer of AI-based systems. Have PhD in Engineering.
 
 Responsibility:
 - Design and building of AI and agentic systems.
+- Development of corporate tool for testing AI prompts.
 
 Researching and experimenting:
 - Transformers architecture internals
