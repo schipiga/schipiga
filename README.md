@@ -25,6 +25,9 @@ Opensource contribution:
 - [MCP-compatible LLM G-Eval guardrails checker](https://github.com/schipiga/guardrails)
 
 Publications:
+- [A Thought Experiment: Building an AI Platform Stage to Stage](https://medium.com/@chipiga86/a-thought-experiment-building-an-ai-platform-stage-to-stage-9090e53f31dd)
+- [Reflections on Guardrail Architecture: Designing Safe and Scalable LLM Systems](https://medium.com/@chipiga86/reflections-on-guardrail-architecture-designing-safe-and-scalable-llm-systems-214c0c09f9bf)
+- [Reflections on Hierarchical Memory and Local Contexts in LLMs with Self-Organizing AGENTS.md](https://medium.com/@chipiga86/reflections-on-hierarchical-memory-and-local-contexts-in-llms-with-self-organizing-agents-md-84564139a5f7)
 - [11 Practical Notes about Prompt Engineering](https://medium.com/@chipiga86/11-practical-notes-about-prompt-engineering-ba2341b06d9e)
 - [Rethinking AI Agents (practical guide)](https://medium.com/@chipiga86/rethinking-ai-agents-practical-guide-4944b33d1fe2)
 - [7 Practical Guidelines for Designing AI-Friendly APIs](https://medium.com/@chipiga86/7-practical-guidelines-for-designing-ai-friendly-apis-c5527f6869e6)
