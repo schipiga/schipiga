@@ -1,12 +1,12 @@
 ## Hi 👋 I'm Sergei
 
-I'm Senior Developer of AI-based systems. Have PhD in Engineering.
+AI Engineer, EVA-LLM AI-platform owner, OpenAI Promptfoo Contributor (G-Eval), PhD in Engineering.
 
 ### Work Experience
 
 #### [Pipedrive](https://www.pipedrive.com/)
 
-07.2024 - Present - **Senior Developer of AI-based systems**
+07.2024 - 03.2026 - **Senior Developer of AI-based systems**
 
 Responsibility:
 - Design and building of AI and agentic systems.
