@@ -1,8 +1,14 @@
 ## Hi 👋 I'm Sergei
 
-AI Engineer, EVA-LLM AI-platform owner, OpenAI Promptfoo Contributor (G-Eval), PhD in Engineering.
+SDET @ HireRight | PhD in Engineering | ex-Yandex | ex-Mirantis | ex-Pipedrive | OpenAI Promptfoo Contributor
 
 ### Work Experience
+
+#### [HireRight](https://www.hireright.com/)
+
+09.2026 - Present - **Senior QA Automation Engineer**
+
+java enterprise automation in highly regulated sector
 
 #### [Pipedrive](https://www.pipedrive.com/)
 
